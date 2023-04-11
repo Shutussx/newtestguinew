@@ -82,3 +82,7 @@ Tab2Section:NewButton("Keyboard","Pc Like Keyboard",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/manimcool21/Keyboard-FE/mai
 n/Protected%20(3).lua'),true))()
 end)
+
+--// Credits to  \/ \\--
+-- Azure and idkuser  --
+------------------------

@@ -79,8 +79,8 @@ loc = Char.HumanoidRootPart.Position
 Char:MoveTo(box.Position + Vector3.new(0,.5,0))
 end)
 Tab2Section:NewButton("Keyboard","Pc Like Keyboard",function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/manimcool21/Keyboard-FE/mai
-n/Protected%20(3).lua'),true))()
+--// a fix below no need to thank me \\--
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/manimcool21/Keyboard-FE/main/Protected%20(3).lua'),true))()
 end)
 
 --// Credits to  \/ \\--

@@ -3,10 +3,10 @@ local window = kavoUi.CreateLib("Main Title","BloodTheme")
 ---Tabs
 local Tab1 = window:NewTab("Main")
 local Tab1Section = Tab1:NewSection("Main")
-local Tab2 = window:NewTab("Sup")
-local Tab2Section = Tab2:NewSection("Sup is word")
+local Tab2 = window:NewTab("FE")
+local Tab2Section = Tab2:NewSection("FE Scripts")
 local Tab3 = window:NewTab("Credits")
-local Tab3Section = Tab3:NewSection("Made By Ezure")
+local Tab3Section = Tab3:NewSection("Made By Azure & idkuser")
 local Tab3Section = Tab3:NewSection("Others Name")
 ---Buttons
 Tab1Section:NewButton("Hitbox","Increase Range",function()

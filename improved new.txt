@@ -91,7 +91,12 @@ loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt"))
 
 end)
 
+Tab1Section:NewButton("Speed Changer", "Speed Changet", function()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrScripterrFr/Speed-Changer/main/Speed%20Changer"))();
+    print("Clicked")
+
+end)
 
 --// Credits to  \/ \\--
 --  Azure and idkuser --

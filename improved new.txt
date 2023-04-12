@@ -89,5 +89,5 @@ end)
 
 
 --// Credits to  \/ \\--
--- Azure and idkuser  --
+--  Azure and idkuser --
 ------------------------
